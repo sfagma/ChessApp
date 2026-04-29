@@ -1,0 +1,19 @@
+{
+  "expo": {
+    "name": "Classroom Lesson App",
+    "slug": "classroom-lesson-app",
+    "scheme": "thinkchess",
+    "version": "1.0.0",
+    "orientation": "default",
+    "userInterfaceStyle": "light",
+    "assetBundlePatterns": [
+      "**/*"
+    ],
+    "ios": {
+      "supportsTablet": true
+    },
+    "plugins": [
+      "expo-router"
+    ]
+  }
+}
