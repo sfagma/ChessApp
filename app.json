@@ -3,6 +3,9 @@
     "name": "Classroom Lesson App",
     "slug": "classroom-lesson-app",
     "scheme": "thinkchess",
+    "web": {
+      "bundler": "metro"
+    },
     "version": "1.0.0",
     "orientation": "default",
     "userInterfaceStyle": "light",
