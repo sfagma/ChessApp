@@ -20,21 +20,6 @@ Beginner-friendly offline lesson app for iPads, built with Expo + React Native +
    - Press `i` to open iOS simulator, or
    - Scan QR with Expo Go on an iPad.
 
-## Public website deployment (GitHub Pages)
-
-This project includes a GitHub Actions workflow to build and deploy web output from
-`main` to GitHub Pages.
-
-After the workflow runs, your public URL will be:
-
-`https://sfagma.github.io/ChessApp/`
-
-If it shows a 404 at first, enable Pages in GitHub:
-
-1. Open repository Settings
-2. Open Pages
-3. Source: GitHub Actions
-
 ## Current MVP Flow
 
 - Home screen shows lesson cards.
